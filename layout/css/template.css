@@ -1,0 +1,32 @@
+.mainfooter {
+
+    margin-bottom: 0px;
+    margin-top: 40px;
+
+}
+.mainfooter h3{
+
+    text-align: center;
+    font-size: 12px;
+
+}
+
+
+#mainnav a:first-child, #mainnav a:nth-child(2),#mainnav a:nth-child(3){
+    float: left;
+}
+
+#mainnav a:nth-child(4), #mainnav a:nth-child(5),#mainnav a:nth-child(6){
+    float: left;
+}
+
+#mainnav a:hover{
+    text-decoration: none;
+}
+
+#mainheader{
+    color: gray;
+    font-family: 'Old Standard TT', serif;
+    letter-spacing: 6px;
+    
+}
